@@ -49,6 +49,10 @@ p {
   width: 1000px;
 }
 
+ul{
+  width: 950px;
+}
+
 a{
   font-size: 20px;
   font: times;
